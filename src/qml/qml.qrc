@@ -1,0 +1,18 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Main.qml</file>
+        <file>LoginPage.qml</file>
+        <file>TimetablePage.qml</file>
+        <file>LoadingPage.qml</file>
+        <file>VP.js</file>
+        <file>MensaPage.qml</file>
+        <file>WebView.qml</file>
+        <file>webview/OxideView.qml</file>
+        <file>webview/QtView.qml</file>
+        <file>WebViewPage.qml</file>
+        <file>AboutPage.qml</file>
+        <file>ConditionsPage.qml</file>
+        <file>Auth.js</file>
+        <file>Secret.js</file>
+    </qresource>
+</RCC>

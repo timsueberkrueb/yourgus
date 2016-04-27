@@ -1,0 +1,3 @@
+[submodule "quey-ui"]
+	path = quey-ui
+	url = https://github.com/quey-project/quey-ui

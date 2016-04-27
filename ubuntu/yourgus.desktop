@@ -1,0 +1,7 @@
+[Desktop Entry]
+Name=YourGUS
+Exec=yourgus
+Icon=ubuntu/icon.png
+Terminal=false
+Type=Application
+X-Ubuntu-Touch=true
