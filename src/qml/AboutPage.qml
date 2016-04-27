@@ -20,7 +20,7 @@ import QtQuick.Layouts 1.1
 import quey.ui 0.1
 
 Page {
-    title: "About"
+    title: "Über"
 
     Flickable {
         anchors.fill: parent
