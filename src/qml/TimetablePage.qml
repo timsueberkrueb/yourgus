@@ -1,5 +1,5 @@
 /*
- * This file is part of the YourGUS
+ * This file is part of YourGUS
  * Copyright (C) 2016 Tim Süberkrüb (https://github.com/tim-sueberkrueb)
  *
  * This program is free software: you can redistribute it and/or modify
@@ -15,6 +15,7 @@
  * You should have received a copy of the GNU General Public License
  * along with this program.  If not, see <http://www.gnu.org/licenses/>.
  */
+
 import QtQuick 2.4
 import QtQuick.Layouts 1.1
 import quey.ui 0.1

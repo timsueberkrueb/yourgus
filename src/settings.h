@@ -1,5 +1,5 @@
 /*
- * This file is part of the YourGUS
+ * This file is part of YourGUS
  * Copyright (C) 2016 Tim Süberkrüb (https://github.com/tim-sueberkrueb)
  *
  * This program is free software: you can redistribute it and/or modify
